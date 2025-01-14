@@ -61,7 +61,7 @@ Di chuyển đến thư mục dự án.
 Chạy các bài kiểm thử bằng lệnh:
 python Selenium.py
 
-## Kết Quả Dự Kiến
+## Kết Quả 
 Console sẽ hiển thị kết quả kiểm thử cho từng trường hợp, cho biết liệu kiểm thử có thành công hay không.
 Ví Dụ Kết Quả
 
