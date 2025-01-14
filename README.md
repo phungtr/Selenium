@@ -18,7 +18,7 @@ pip install selenium
 Tải xuống ChromeDriver tương thích với phiên bản Chrome .
 Đảm bảo đường dẫn đến chromedriver.exe được chỉ định đúng trong mã.
 ## Cấu Trúc Dự Án
-.
+
 ├── Selenium.py  # Tệp kiểm thử chính
 
 └── README.md    # Tài liệu dự án
