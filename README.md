@@ -20,6 +20,7 @@ Tải xuống ChromeDriver tương thích với phiên bản Chrome .
 ## Cấu Trúc Dự Án
 .
 ├── Selenium.py  # Tệp kiểm thử chính
+
 └── README.md    # Tài liệu dự án
 
 ### `Selenium.py`
@@ -46,7 +47,7 @@ Nhập mật khẩu không hợp lệ.
 Nhấn nút đăng nhập.
 Xác minh rằng thông báo lỗi xuất hiện.
 
-###3. Chức Năng Đăng Xuất
+### 3. Chức Năng Đăng Xuất
 Mô Tả: Xác minh rằng người dùng đã đăng nhập có thể đăng xuất thành công.
 Các Bước:
 Đăng nhập với thông tin hợp lệ.
