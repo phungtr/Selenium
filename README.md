@@ -68,11 +68,6 @@ Ví Dụ Kết Quả
 ![image](https://github.com/user-attachments/assets/a4c22b1b-d135-48e0-aeef-5397e2207020)
 
 ## Lưu Ý Quan Trọng
-
-Đảm bảo phiên bản trình duyệt và ChromeDriver khớp nhau.
-Các bài kiểm thử giả định rằng trang web SauceDemo có thể truy cập tại https://www.saucedemo.com.
-
-link chatgpt: https://chatgpt.com/c/67866c9e-40d4-8012-a46e-323d0cb57528
 Điều chỉnh thời gian chờ nếu cần thiết để phù hợp với tốc độ tải trang chậm hơn.
 
 
